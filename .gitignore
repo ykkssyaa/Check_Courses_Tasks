@@ -1,4 +1,7 @@
 .venv
 .idea
-/client**
+
+**/token.json
+**/credentials.json
+
 **/__pycache__

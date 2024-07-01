@@ -1,4 +1,5 @@
 from fastapi import FastAPI
+from gateway import google_docs, github
 
 app = FastAPI()
 
